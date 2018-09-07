@@ -1,2 +1,4 @@
 # NYT-APISearch_Classwork
-Who even  reads theses things anyways?
+NYT API based article search website
+
+Work in progress --- my javascript sucks
