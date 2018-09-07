@@ -1,0 +1,17 @@
+.jumbotron {
+    box-sizing: border-box;
+    background-color: #20315A;
+    font-family: Arial Bold, Helvetica, 'Arial Narrow Bold', sans-serif;
+    color: white;
+  }
+  
+  .jumbotron>h1 {
+    font-size: 2rem;
+  }
+  
+  
+  
+  body {
+    background-color: #d5d0d0;
+    font-family: sans-serif;
+  }
